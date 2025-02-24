@@ -10,8 +10,8 @@ curriculum as the exam.
 I use WSL/ubuntu for this, so I compile it like this: g++ -o program *.cpp
 
 ### What is this about
-In this project you have Tour-Operators ("turoperatorer" in Norwegian), Cities ("Byer"),  
-and Attractions ("Attraksjoner") in the Cities.
+In this project you have objects of Tour-Operators ("turoperatorer" in Norwegian), Cities ("Byer"),  
+and Attractions ("Attraksjoner") in the Cities, and then correctly managing these to create the functions/commands below.
 
 | Command | Description |
 |---------|------------|
