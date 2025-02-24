@@ -1,16 +1,6 @@
-# Gruppe09
+### Author: Matteo Zulijani
 
-### Matteo Zulijani
+This is a C++ project I did in my Object Oriented Programmaing class (prog1003)
 
-Tlf: 90291610  
-Epost: matteozu@stud.ntnu.no
-
-### Christian Oliversen
-
-Tlf: 46297524  
-Epost: chrinol@stud.ntnu.no
-
-### Anatoly Telegin
-
-Tlf: 45081382  
-Epost: anatolvt@stud.ntnu.no
+This was not a graded project. However you did need to complete this project to go to the exam.
+Reason for this not being graded, was that it was the same curriculum as the exam.
